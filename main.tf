@@ -41,7 +41,7 @@ resource "google_project" "Paperless-Project" {
     project_id = "animated-alloy-369522" 
     folder_id = google_folder.Desenvolvimento.name
     auto_create_network = false
-    billing_account = "011D89-85258E-113151	"
+    billing_account = "011D89-85258E-113151"
 }
 
 
